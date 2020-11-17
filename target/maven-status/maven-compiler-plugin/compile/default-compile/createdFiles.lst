@@ -1,0 +1,7 @@
+com\codoacodo\sergiojuarez\models\Persona.class
+com\codoacodo\sergiojuarez\controler\Controler.class
+com\codoacodo\sergiojuarez\models\Conexion.class
+com\codoacodo\sergiojuarez\models\Validar.class
+com\codoacodo\sergiojuarez\models\PersonaDAO.class
+com\codoacodo\sergiojuarez\login\JAXRSConfiguration.class
+com\codoacodo\sergiojuarez\login\resources\JavaEE8Resource.class
